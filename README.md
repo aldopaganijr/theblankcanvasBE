@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋🏼, I'm Aldo Pagani Jr</h1>
 <h3 align="center">This project is a Art E-Commerce Site</h3>
 
+![the-blank-canvas netlify app_](https://user-images.githubusercontent.com/105445990/184559236-dc807ac5-bebb-40d9-8ac8-7613d3ed546d.png)
+
+
 - 🗓 Project Status? **Still In Production**
 
 - 🌱 Im currently learning **Vue**

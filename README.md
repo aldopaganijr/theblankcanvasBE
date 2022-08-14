@@ -1,3 +1,21 @@
+<h1 align="center">Hi 👋🏼, I'm Aldo Pagani Jr</h1>
+<h3 align="center">This project is a Art E-Commerce Site</h3>
+
+![the-blank-canvas netlify app_](https://user-images.githubusercontent.com/105445990/184559236-dc807ac5-bebb-40d9-8ac8-7613d3ed546d.png)
+
+
+- 🗓 Project Status? **Still In Production**
+
+- 🌱 Im currently learning **Vue**
+
+- 👨‍💻 All my projects are linked here! [https://aldopaganijr.netlify.app](https://aldopaganijr.netlify.app)
+
+- 💬 Ask me about **React**
+
+- 📫 How to reach me? **https://www.linkedin.com/in/aldo-pagani-jr-a4025923a/**
+
+- 📄 Know about my experiences [https://docs.google.com/document/d/10iUKW3N3Jh1afxzM6XJ0rTzDN7mBSK3GDA6hMwbKTbU/edit?usp=sharing](https://docs.google.com/document/d/10iUKW3N3Jh1afxzM6XJ0rTzDN7mBSK3GDA6hMwbKTbU/edit?usp=sharing)
+
 ## Project Idea
 
 We are making an online storefront for selling art prints, called "The Blank Canvas". We want people to be able to populate a cart and checkout from the store.
@@ -52,6 +70,8 @@ We are making an online storefront for selling art prints, called "The Blank Can
 
 
  
+
+
 
 
 

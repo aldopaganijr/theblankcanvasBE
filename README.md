@@ -4,7 +4,7 @@
 ![the-blank-canvas netlify app_](https://user-images.githubusercontent.com/105445990/184559236-dc807ac5-bebb-40d9-8ac8-7613d3ed546d.png)
 
 
-- 🗓 Project Status? **Still In Production**
+- 🗓 Project Status? **Still In Production / Missing Payment**
 
 - 🌱 Im currently learning **Vue**
 

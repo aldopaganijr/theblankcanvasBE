@@ -69,7 +69,7 @@ We are making an online storefront for selling art prints, called "The Blank Can
 - Have better social media inclusion
 - Be able to store user data for current or future
 - Make painting database descriptions more robust
-- Possibly make individual painting pages
+- Possibly make individual painting pages.
 
 ## Wireframes
 
